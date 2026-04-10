@@ -3,8 +3,8 @@
 > A Halloween-themed farming simulation game built with Unity
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 
 ---
 
@@ -20,7 +20,7 @@
 - 👻 **Ghostly Customers** — Fulfill unique orders from spooky characters
 - 📋 **Mission System** — Complete missions to progress through the game
 - 🎃 **Halloween Atmosphere** — Immersive haunted world aesthetic
-- 🌐 **Play in Browser** — No installation required, runs on WebGL
+- 🖥️ **Unity Editor** — Currently playable via Unity Editor
 
 ---
 
@@ -40,7 +40,6 @@
 |------------|---------|
 | **Unity** | Game engine |
 | **C#** | Game scripting |
-| **WebGL** | Browser deployment |
 
 ---
 
@@ -61,8 +60,7 @@ gamecg/
 
 ## 🚀 Getting Started
 
-### Play Online
-> *(Add your WebGL build link here — e.g. itch.io or GitHub Pages)*
+> ⚠️ This game is currently in development and can only be run via **Unity Editor**.
 
 ### Run Locally
 1. Clone the repository
