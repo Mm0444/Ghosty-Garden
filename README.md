@@ -60,7 +60,7 @@ gamecg/
 
 ## 🚀 Getting Started
 
-> ⚠️ This game is currently in development and can only be run via **Unity Editor**.
+> ⚠️ This game can only be run via **Unity**.
 
 ### Run Locally
 1. Clone the repository
@@ -69,18 +69,6 @@ gamecg/
    ```
 2. Open the project in **Unity Hub**
 3. Select the scene and press **Play**
-
----
-
-## 📸 Screenshots
-
-> *(Add screenshots of your game here)*
-
----
-
-## 👩‍💻 Developer
-
-Developed solo as a personal project using the Unity engine.
 
 ---
 
